@@ -15,14 +15,17 @@ This project is a CRUD application built with Express for the backend and React 
    - Make db in postgreSql example name 'myportal'
    - Create .env file (port, db connect, jwt, other.. )
      
- ```bash
+   ```bash
 
    npx prisma migrate dev
    npm run dev
 
-  ```
+   ```
+   
 ## Frontend Setup
+
 1. **Install dependencies**:
+   
    - Run the following command to install the necessary packages:
    - Create .env file to connect with backend
      
@@ -37,7 +40,8 @@ This project is a CRUD application built with Express for the backend and React 
 
 *example port = 4000
 
-### User
+### User & Auth
+
 1. Create User / Registration
    
    * Enpoint
@@ -254,7 +258,9 @@ This project is a CRUD application built with Express for the backend and React 
 
 ```
 
-6. Get Product (All)
+### Product
+
+1. Get Product (All)
 
    * Endpoint
      
@@ -306,7 +312,7 @@ This project is a CRUD application built with Express for the backend and React 
 
 ```
 
-7. Get Product ( by Id)
+2. Get Product ( by Id)
 
    * Endpoint
      
@@ -338,7 +344,7 @@ This project is a CRUD application built with Express for the backend and React 
 ```
 
 
-8. Create Product 
+3. Create Product 
 
    * Endpoint
      
@@ -386,7 +392,7 @@ This project is a CRUD application built with Express for the backend and React 
 
 ```
 
-9. Update Product (by Id) 
+4. Update Product (by Id) 
 
    * Endpoint
      
@@ -432,7 +438,7 @@ This project is a CRUD application built with Express for the backend and React 
 
 ```
 
-10. Search Product (by Category, by Name , by Description)
+5. Search Product (by Category, by Name , by Description)
 
    * Endpoint
      
@@ -479,7 +485,7 @@ This project is a CRUD application built with Express for the backend and React 
 ```
 
 
-11. Delete Product (by Id)
+6. Delete Product (by Id)
 
       * Endpoint
      
