@@ -8,16 +8,14 @@ This project is a CRUD application built with Express for the backend and React 
    
 * Run the following command to install the necessary packages:
      
-
 ```bash
-   
+
    npm install
 
 ```
 
+* Create .env file (port, db connect, jwt, other..)
 * Make db in postgreSql example name 'myportal'
-* Create .env file (port, db connect, jwt, other..
-     
      
 ```bash
 
