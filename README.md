@@ -5,6 +5,7 @@ This project is a CRUD application built with Express for the backend and React 
 ## Backend Setup
 
 1. **Install dependencies**:
+   
    - Run the following command to install the necessary packages:
 
    ```bash
@@ -394,7 +395,7 @@ This project is a CRUD application built with Express for the backend and React 
 
 4. Update Product (by Id) 
 
-   * Endpoint
+ * Endpoint
      
 ```bash
 
@@ -403,7 +404,7 @@ This project is a CRUD application built with Express for the backend and React 
 
 ```
 
-   * Example Request
+ * Example Request
 
 ```bash
 
@@ -418,7 +419,7 @@ This project is a CRUD application built with Express for the backend and React 
 
 ```
 
-   * Example Response
+ * Example Response
      
 ```bash
 
@@ -440,7 +441,7 @@ This project is a CRUD application built with Express for the backend and React 
 
 5. Search Product (by Category, by Name , by Description)
 
-   * Endpoint
+  * Endpoint
      
 ```bash
 
@@ -487,7 +488,7 @@ This project is a CRUD application built with Express for the backend and React 
 
 6. Delete Product (by Id)
 
-      * Endpoint
+   * Endpoint
      
 ```bash
 
