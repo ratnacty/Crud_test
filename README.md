@@ -44,14 +44,14 @@ This project is a CRUD application built with Express for the backend and React 
 
 1. Create User / Registration
    
-   * Enpoint
+* Enpoint
      
 ```bash
    Post
    localhost:4000/registeruser
 ```
 
-   * Example request
+* Example request
      
 ```bash
 {
@@ -84,7 +84,7 @@ This project is a CRUD application built with Express for the backend and React 
 
 2. Login
 
-   * Endpoint
+ * Endpoint
      
 ```bash
    Post
@@ -112,7 +112,7 @@ This project is a CRUD application built with Express for the backend and React 
 
 2. Get Users (All)
 
-   * Endpoint
+ * Endpoint
      
 ```bash
 
@@ -156,7 +156,7 @@ This project is a CRUD application built with Express for the backend and React 
 
 3. Get User (has login)
 
-   * Endpoint
+ * Endpoint
      
 ```bash
 
@@ -187,7 +187,7 @@ This project is a CRUD application built with Express for the backend and React 
 
 4. Get User (by Id)
 
-   * Endpoint
+ * Endpoint
      
 ```bash
 
@@ -262,7 +262,7 @@ This project is a CRUD application built with Express for the backend and React 
 
 1. Get Product (All)
 
-   * Endpoint
+ * Endpoint
      
 ```bash
 
@@ -314,7 +314,7 @@ This project is a CRUD application built with Express for the backend and React 
 
 2. Get Product ( by Id)
 
-   * Endpoint
+ * Endpoint
      
 ```bash
 
@@ -346,7 +346,7 @@ This project is a CRUD application built with Express for the backend and React 
 
 3. Create Product 
 
-   * Endpoint
+ * Endpoint
      
 ```bash
 
@@ -355,7 +355,7 @@ This project is a CRUD application built with Express for the backend and React 
 
 ```
 
-   * Example Request
+ * Example Request
 
 ```bash
 
