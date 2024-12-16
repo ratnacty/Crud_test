@@ -7,6 +7,7 @@ This project is a CRUD application built with Express for the backend and React 
 1. **Install dependencies**:
    
    - Run the following command to install the necessary packages:
+     
 
    ```bash
    
@@ -14,7 +15,8 @@ This project is a CRUD application built with Express for the backend and React 
 
    ```
    - Make db in postgreSql example name 'myportal'
-   - Create .env file (port, db connect, jwt, other.. )
+   - Create .env file (port, db connect, jwt, other..
+     
      
    ```bash
 
@@ -30,6 +32,7 @@ This project is a CRUD application built with Express for the backend and React 
    - Run the following command to install the necessary packages:
    - Create .env file to connect with backend
      
+     
    ```bash
    
    npm install
@@ -37,9 +40,12 @@ This project is a CRUD application built with Express for the backend and React 
    
    ```
 
+
 ## API Doc
 
-*example port = 4000
+* example port = 4000
+* dont forget to apply Barier token in authorization to access user and product
+  
 
 ### User & Auth
 
