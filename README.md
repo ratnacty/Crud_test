@@ -6,31 +6,32 @@ This project is a CRUD application built with Express for the backend and React 
 
 1. **Install dependencies**:
    
-   - Run the following command to install the necessary packages:
+* Run the following command to install the necessary packages:
      
 
-   ```bash
+```bash
    
    npm install
 
-   ```
-   - Make db in postgreSql example name 'myportal'
-   - Create .env file (port, db connect, jwt, other..
+```
+
+* Make db in postgreSql example name 'myportal'
+* Create .env file (port, db connect, jwt, other..
      
      
-   ```bash
+```bash
 
    npx prisma migrate dev
    npm run dev
 
-   ```
+```
    
 ## Frontend Setup
 
 1. **Install dependencies**:
    
-   - Run the following command to install the necessary packages:
-   - Create .env file to connect with backend
+* Run the following command to install the necessary packages:
+* Create .env file to connect with backend
      
      
    ```bash
